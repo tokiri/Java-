@@ -102,7 +102,7 @@ File file = new File("file"+File.separator+"out.txt");
 
 ```
 
->Error和Exception有什么区别？
+>3. Error和Exception有什么区别？
 
     
     
